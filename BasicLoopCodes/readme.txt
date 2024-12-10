@@ -3,3 +3,7 @@ An Armstrong number is a number that is equal to the sum of its own digits each 
 Example: 153 is an Armstrong number because:
 
 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
+
+
+
+Palindrome string is a string which can be readed as same from start or end ie. MOM if we revere it then also it would be same only 
