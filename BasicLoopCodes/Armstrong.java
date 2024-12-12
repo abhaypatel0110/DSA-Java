@@ -19,7 +19,7 @@ public class Armstrong {
         
         if(checkNumber==number)
         {
-            System.out.println("Given number "+number+" is g number");
+            System.out.println("Given number "+number+" is armstrong number");
         }
         else{
             System.out.println("Given number "+number+" is not a armstrong number");
