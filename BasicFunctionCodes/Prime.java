@@ -5,7 +5,7 @@ public class Prime {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the number to check for prime :");
         int number = input.nextInt();
-
+        primeFinder(number);
         input.close();
     }
 
@@ -20,9 +20,9 @@ public class Prime {
         {
             if(n%2==0)
             return false;
-            c++;
         }
         return (c*c>n);
+        
     }
     
 }
