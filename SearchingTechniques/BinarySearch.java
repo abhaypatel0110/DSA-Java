@@ -49,11 +49,10 @@ public class BinarySearch {
                 {
                     start = mid+1;                }
             }
-            if(end<start)
-            {
-                System.out.println("Given target is not present in array");
-            }
         }
+        
+            System.out.println("Given target is not present in array");
+        
     }
     
 }
