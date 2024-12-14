@@ -45,10 +45,9 @@ public class CeilingOfNumber {
                     end = mid-1;
                 }
             }
-            if(end<start)
-            {
-                System.out.println("Ceiling of number is :"+arr[start]);
-            }
         }
+        
+            System.out.println("Ceiling of number is :"+arr[start]);
+        
     }
 }
